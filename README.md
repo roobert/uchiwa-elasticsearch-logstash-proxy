@@ -1,0 +1,1 @@
+# uchiwa-elasticsearch-logstash-proxy
